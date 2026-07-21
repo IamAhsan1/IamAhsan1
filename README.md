@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Muhammad%20Ahsan%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20WordPress%20%26%20Shopify%20Expert%20%E2%80%A2%20Backend%20Engineer&descAlignY=62&descSize=17&descColor=e9e6ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Muhammad%20Ahsan%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20WordPress%20and%20Shopify%20Expert%20%E2%80%A2%20Backend%20Engineer&descAlignY=62&descSize=17&descColor=e9e6ff" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ahsan-khan-18015b247"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:iamahsan080@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -148,8 +148,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IamAhsan1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&cache_seconds=21600" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAhsan1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=21600" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=IamAhsan1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IamAhsan1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
 <br/><br/>
 
@@ -157,7 +157,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=IamAhsan1&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=IamAhsan1&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
 
