@@ -40,32 +40,36 @@
 
 <div align="center">
 
-<sub><b>Languages</b></sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,html,css&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=600&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=35&lines=JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js;WordPress+%E2%80%A2+Elementor+%E2%80%A2+Shopify+Liquid;MongoDB+%E2%80%A2+MySQL+%E2%80%A2+Docker+%E2%80%A2+AWS" />
 
 <br/><br/>
 
-<sub><b>Frontend</b></sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,wordpress&theme=dark" />
-
+<img src="https://img.shields.io/badge/Languages-6366f1?style=for-the-badge&logoColor=white"/>
 <br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,html,css&theme=dark&perline=6" />
 
-<sub><b>Backend &amp; Databases</b></sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql&theme=dark" />
+<br/><br/><br/>
 
+<img src="https://img.shields.io/badge/Frontend-8b5cf6?style=for-the-badge&logoColor=white"/>
 <br/><br/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,wordpress&theme=dark&perline=6" />
 
-<sub><b>Tools &amp; Platforms</b></sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,figma&theme=dark" />
+<br/><br/><br/>
 
+<img src="https://img.shields.io/badge/Backend%20%26%20Databases-8b5cf6?style=for-the-badge&logoColor=white"/>
 <br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql&theme=dark&perline=6" />
 
-<sub><b>AI / Integrations</b></sub>
-<br/>
+<br/><br/><br/>
+
+<img src="https://img.shields.io/badge/Tools%20%26%20Platforms-06b6d4?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,figma&theme=dark&perline=6" />
+
+<br/><br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20Integrations-06b6d4?style=for-the-badge&logoColor=white"/>
+<br/><br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white"/>
@@ -157,19 +161,17 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=IamAhsan1&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" />
+<img src="https://raw.githubusercontent.com/IamAhsan1/IamAhsan1/output/trophy.svg" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:06b6d4&height=3&section=header&width=100%" width="100%"/>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">📈 Activity Graph</h2>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/IamAhsan1/IamAhsan1/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IamAhsan1&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" />
 </div>
-
-<sub align="center">⚠️ This animation only refreshes when a scheduled GitHub Action runs in this repo — see setup note below if it looks outdated.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:06b6d4&height=3&section=header&width=100%" width="100%"/>
 
